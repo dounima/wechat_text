@@ -1,0 +1,6 @@
+name: wechatnew
+version: 1
+
+libraries:
+- name: PyCrypto
+  version: "2.6"
